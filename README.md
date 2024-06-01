@@ -6,7 +6,7 @@
 
 ## PROJECT
 
-- 数学建模国赛LATEX参考模板：https://github.com/XingA02/data_analysis_with_R
+- 数学建模国赛LATEX参考模板：https://github.com/XingA02/cls_for_CUMCM
 
 - 数学建模简明教程：https://github.com/XingA02/data_analysis_with_R
 
