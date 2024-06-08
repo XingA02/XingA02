@@ -6,6 +6,8 @@
 
 ## PROJECT
 
+- 常用数据集：https://github.com/XingA02/Data_Analysis_dataset
+
 - 数学建模国赛LATEX参考模板：https://github.com/XingA02/cls_for_CUMCM
 
 - 数学建模简明教程：https://github.com/XingA02/Model_with_Python
