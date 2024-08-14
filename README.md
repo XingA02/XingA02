@@ -14,4 +14,8 @@
 - 数学建模简明教程：
   - Github仓库地址：https://github.com/XingA02/Model_with_Python
   - B站配套讲解地址：
+ 
+- 2022年高教社杯数学建模国赛C题解决方案：
+  - Github仓库地址：https://github.com/XingA02/CUMCM-2022C
+  - B站配套讲解地址：
 
